@@ -10,9 +10,10 @@ By default, LilyPond embeds clickable links into PDFs that point back to the `.l
 
 ## Download (Windows Users)
 1. Download the latest `.exe` file from the **[Releases](../../releases)** section.
-2. **To run via prompt:** Open the `.exe` file. When prompted, provide the path to your PDF. 
+2. **Easy method** Simply drag and drop your PDF file onto the `.exe` file.
+3. **To run via prompt:** Open the `.exe` file. When prompted, provide the path to your PDF. 
    > **Tip:** You can right-click your `.pdf` file in File Explorer, select **"Copy as path"**, and then paste it into the program window.
-3. **To run via CMD/PowerShell:**
+4. **To run via CMD/PowerShell:**
     ```bash
     ./PDF_Link_Remover.exe [Source_file_path] [Output_file_path]
     ```

@@ -35,7 +35,7 @@ By default, LilyPond embeds clickable links into PDFs that point back to the `.l
     ```bash
     python PDF_Link_Remover.py [Source_file_path] [Output_file_path]
     ```
-    *If no output path is specified, the script automatically generates a file with the `_wolinks` suffix.*
+    *If no output path is specified, the script automatically generates a file with the `_wolinks.pdf` ending.*
 
 ---
 

@@ -17,14 +17,14 @@ By default, LilyPond embeds clickable links into PDFs that point back to the `.l
     ```bash
     ./PDF_Link_Remover.exe [Source_file_path] [Output_file_path]
     ```
-    *If you don't provide an output path, the program will create a new file ending in `-wolinks.pdf` in the same folder.*
+    *If you don't provide an output path, the program will create a new file ending in `_wolinks.pdf` in the same folder.*
 
 ---
 
 ## Usage (Python Users)
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/MNiem47/PDF-Link-Remover.git](https://github.com/MNiem47/PDF-Link-Remover.git)
+    git clone https://github.com/MNiem47/PDF-Link-Remover.git
     cd PDF-Llink-Remover
     ```
 2. **Install dependencies:**

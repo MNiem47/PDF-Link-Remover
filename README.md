@@ -31,6 +31,7 @@ By default, LilyPond embeds clickable links into PDFs that point back to the `.l
     ```bash
     pip install -r requirements.txt
     ```
+    *Remember that you can use virtual enviroments.*
 3. **Run the script:**
     ```bash
     python PDF_Link_Remover.py [Source_file_path] [Output_file_path]
